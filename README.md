@@ -4,7 +4,7 @@
 `TRACK` is a secure communication tool built for the CODEX environment. It uses RSA-2048 encryption to ensure that only the holder of a specific Private Key can read a message encrypted with its corresponding Public Key.
 
 ---
-
+git clone https://github.com/trackbeatz/Encrypted-messenger.git
 ## 📥 QUICK START (Termux)
 
 1. **Install Python & Cryptography:**
